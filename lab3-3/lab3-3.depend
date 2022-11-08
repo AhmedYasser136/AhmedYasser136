@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667651050 source:d:\iti\c\lab 3\lab3-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
