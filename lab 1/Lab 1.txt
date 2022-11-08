@@ -1,0 +1,166 @@
+
+1- C Program to print "Hello World"
+
+#include <stdio.h>
+#include <stdlib.h>
+int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
+
+
+
+
+
+
+
+2- C Program to print ASCII number of a given char
+
+#include <stdio.h>
+#include <stdlib.h>
+int main ()
+{
+  char X ='k' ;
+  printf("ascii is %d " ,X);
+  return 0;
+}
+
+
+
+3- C Program to print a float number entered by the user
+
+
+#include <stdio.h>
+int main( )
+{
+float x ;
+printf("inter num :");
+scanf("%f" , &x);
+
+printf("the num is : %f" , x);
+ return 0;
+
+}
+
+
+
+
+
+4- C Program to add two integers
+
+#include <stdio.h>
+int main( )
+{
+float x ;
+float y ;
+
+
+printf("inter num x :");
+scanf("%f" , &x);
+
+printf("inter num y :" );
+scanf("%f" , &y);
+
+float sum=x+y;
+
+printf("the num is : %f" , sum );
+ return 0;
+
+}
+
+
+Answer "as much as you can" from the following:
+------------------------------------------------
+
+5- C Program to print Hexa of a number
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int x;
+
+    printf("int num :");
+    scanf("%d" , &x);
+
+    printf("your num in hexa is : %x " , x);
+
+    return 0;
+
+}
+
+
+
+
+
+6 - C Program to make simple calculations (add, sub, multiply, divid) on two integers
+#include <stdio.h>
+int main( )
+{
+float x ;
+float y ;
+float add;
+float sub;
+float mult;
+float divi;
+
+printf("inter num x :");
+scanf("%f" , &x);
+
+printf("inter num y :" );
+scanf("%f" , &y);
+
+ add=x+y;
+ sub=x-y;
+ mult=x*y;
+ divi=x/y;
+
+
+printf("\nthe sub is : %f" , sub );
+printf("\nthe add is : %f" , add );
+printf("\nthe mult is : %f" , mult );
+printf("\nthe divi is : %f" , divi );
+
+
+
+ return 0;
+
+}
+
+
+
+7- C Program to compute Quotient and Remainder
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+float x ;
+float y ;
+float divi;
+int mod;
+
+
+
+printf("inter num x :");
+scanf("%f" , &x);
+
+printf("inter num y :" );
+scanf("%f" , &y);
+
+
+ mod=(int)x%(int)y;
+ divi=x/y;
+
+
+ printf("\nthe mult is : %d" , mod );
+printf("\nthe divi is : %f" , divi );
+    return 0;
+}
+
+
+
+
