@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1667481100 source:e:\iti matrial\c programming\labs\lab 1\proj 4-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<time.h>
+
+1667588554 source:e:\iti matrial\c programming\labs\projects\day 4\proj 4-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<time.h>
+
+1667588556 source:d:\iti\c\day 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<time.h>
+
+1667588556 source:d:\iti\c\new folder\day 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<time.h>
+
