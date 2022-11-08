@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667675109 source:e:\iti matrial\c programming\labs\projects\day 5\proj 5-4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
