@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1667777693 source:e:\iti matrial\c programming\labs\projects\day 6\proj 6-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"emp.h"
+
+1667777574 source:e:\iti matrial\c programming\labs\projects\day 6\proj 6-1\emp.c
+	<stdio.h>
+
+1667777643 e:\iti matrial\c programming\labs\projects\day 6\proj 6-1\emp.h
+
+1667777872 source:d:\iti\c\lab 6\proj 6-1\emp.c
+	<stdio.h>
+
+1667777872 source:d:\iti\c\lab 6\proj 6-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"emp.h"
+
+1667777834 d:\iti\c\lab 6\proj 6-1\emp.h
+

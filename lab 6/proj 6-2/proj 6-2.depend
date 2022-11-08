@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1667776860 source:e:\iti matrial\c programming\labs\projects\day 6\proj 6-2\power .c
+
+1667777002 source:e:\iti matrial\c programming\labs\projects\day 6\proj 6-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"power.h"
+
+1667776956 e:\iti matrial\c programming\labs\projects\day 6\proj 6-2\power.h
+
+1667777004 source:d:\iti\c\lab 6\proj 6-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"power.h"
+
+1667820851 d:\iti\c\lab 6\proj 6-2\power.h
+
+1667776862 source:d:\iti\c\lab 6\proj 6-2\power .c
+
