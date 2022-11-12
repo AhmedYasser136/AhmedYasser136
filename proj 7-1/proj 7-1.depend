@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1667851090 source:e:\iti matrial\c programming\labs\projects\day 6\proj 7-1\texteditor.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1667849957 source:e:\iti matrial\c programming\labs\projects\day 6\proj 7-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<time.h>
+
+1668244005 source:e:\iti matrial\c programming\labs\projects\day 7\proj 7-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"texteditor.h"
+
+1668234717 e:\iti matrial\c programming\labs\projects\day 7\proj 7-1\texteditor.h
+
+1668234683 source:e:\iti matrial\c programming\labs\projects\day 7\proj 7-1\texteditor.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668278540 source:d:\iti\c\lab7\proj 7-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"texteditor.h"
+
+1668278540 d:\iti\c\lab7\proj 7-1\texteditor.h
+
+1668278540 source:d:\iti\c\lab7\proj 7-1\texteditor.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
